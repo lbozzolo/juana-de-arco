@@ -7,7 +7,7 @@
 			
 				<div style="text-align: right; padding-right: 20px; padding-top: 30px;">
 <font color="#9d5062" size="4">
-<b>Donación</b></font></div>
+<b>Donaciï¿½n</b></font></div>
 				<div style="text-align: justify; padding-left: 20px; padding-right: 20px;">
 					<p>Hemos recibido tu donaci&oacute;n</p> 
 					<p><b>Muchas Gracias por ayudar a que Juana de Arco siga creciendo!</b></p> 
@@ -19,7 +19,7 @@
 			
 					
 			<div id="subcontentright">
-				<div style="margin-top: 45px;"><img src="images/JuanaCrece.gif" width="300" height="176" border="0" alt="">
+				<div style="margin-top: 45px;"><img src="images/JuanaCrece.webp" width="300" height="176" border="0" alt="">
 
 </div>			
 			</div>			

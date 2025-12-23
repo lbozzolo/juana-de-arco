@@ -5,7 +5,7 @@
 		<div id="content" class="text_main">
 			<div id="subcontentleft">
 			
-				<div style="text-align: right; padding-right: 20px; padding-top: 30px;"><img src="images/head_cal.gif" width="180" height="20" border="0" alt=""></div>
+				<div style="text-align: right; padding-right: 20px; padding-top: 30px;"><img src="images/head_cal.webp" width="180" height="20" border="0" alt=""></div>
 				<div style="text-align: left; padding-left: 20px; padding-right: 20px;">
 					
 							
@@ -14,7 +14,7 @@
 							<ul>
 
 								<li><b>27 de febrero</b>
-								<br>El viernes 27/02 a las 19 hs la Comisión mixta invita a una Asamblea de presentación del año 2009, habrá bienvenida a las nuevas familias, informes de comisiones, novedades, etc.</li>
+								<br>El viernes 27/02 a las 19 hs la Comisiï¿½n mixta invita a una Asamblea de presentaciï¿½n del aï¿½o 2009, habrï¿½ bienvenida a las nuevas familias, informes de comisiones, novedades, etc.</li>
 								
 								<li><b>3 de marzo</b>
 								<br>Inicio de clases para primaria (excepto primer grado) el martes 03/03 a las 7.50 hs.</li>
@@ -28,7 +28,7 @@
 							<ul>
 
 								<li><b>27 de febrero</b>
-								<br>El viernes 27/02 a las 19 hs la Comisión mixta invita a una Asamblea de presentación del año 2009, habrá bienvenida a las nuevas familias, informes de comisiones, novedades, etc.</li>
+								<br>El viernes 27/02 a las 19 hs la Comisiï¿½n mixta invita a una Asamblea de presentaciï¿½n del aï¿½o 2009, habrï¿½ bienvenida a las nuevas familias, informes de comisiones, novedades, etc.</li>
 								
 								<li><b>3 de marzo</b>
 								<br>Inicio de clases para primaria (excepto primer grado) el martes 03/03 a las 7.50 hs.</li>
@@ -42,7 +42,7 @@
 							<ul>
 
 								<li><b>27 de febrero</b>
-								<br>El viernes 27/02 a las 19 hs la Comisión mixta invita a una Asamblea de presentación del año 2009, habrá bienvenida a las nuevas familias, informes de comisiones, novedades, etc.</li>
+								<br>El viernes 27/02 a las 19 hs la Comisiï¿½n mixta invita a una Asamblea de presentaciï¿½n del aï¿½o 2009, habrï¿½ bienvenida a las nuevas familias, informes de comisiones, novedades, etc.</li>
 								
 								<li><b>3 de marzo</b>
 								<br>Inicio de clases para primaria (excepto primer grado) el martes 03/03 a las 7.50 hs.</li>
@@ -61,7 +61,7 @@
 			
 					
 			<div id="subcontentright">
-				<div style="margin-top: 45px;"><img src="images/photo_cal.jpg" width="246" height="382" border="0" alt=""></div>			
+				<div style="margin-top: 45px;"><img src="images/photo_cal.webp" width="246" height="382" border="0" alt=""></div>			
 			</div>			
 			
 		</div>

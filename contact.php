@@ -5,7 +5,7 @@
 		<div id="content" class="text_main">
 			<div id="subcontentleft">
 			
-				<div style="text-align: right; padding-right: 20px; padding-top: 30px;"><img src="images/head_con.gif" width="180" height="20" border="0" alt=""></div>
+				<div style="text-align: right; padding-right: 20px; padding-top: 30px;"><img src="images/head_con.webp" width="180" height="20" border="0" alt=""></div>
 				<div style="text-align: right; padding-left: 20px; padding-right: 20px;">
 					<p>Escuela Waldorf Juana de Arco
 					<br>Araoz 1027/35
@@ -54,7 +54,7 @@
 			
 					
 			<div id="subcontentright">
-				<div style="margin-top: 45px;"><img src="images/photo_con.jpg" width="350" height="400" border="0" alt=""></div>			
+				<div style="margin-top: 45px;"><img src="images/photo_con.webp" width="350" height="400" border="0" alt=""></div>			
 			</div>			
 			
 		</div>

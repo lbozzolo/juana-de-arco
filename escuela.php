@@ -5,7 +5,7 @@
 		<div id="content" class="text_main">
 			<div id="subcontentleft">
 			
-				<div style="text-align: right; padding-right: 5px; padding-top: 30px;"><img src="images/head_esc.gif" width="180" height="20" border="0" alt="La Escuela"></div>
+				<div style="text-align: right; padding-right: 5px; padding-top: 30px;"><img src="images/head_esc.webp" width="180" height="20" border="0" alt="La Escuela"></div>
 				<div style="text-align: justify; padding-left: 20px; padding-right: 20px;">
 					<p><i>El ni&ntilde;o ha de ser recibido con respeto, educado con amor, puesto en la vida finalmente, en libertad.</i>
 					<br>~Rudolf Steiner

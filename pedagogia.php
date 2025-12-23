@@ -5,7 +5,7 @@
 		<div id="content" class="text_main">
 			
 			
-				<div style="text-align: center; padding-right: 20px; padding-top: 30px;"><img src="images/head_ped.gif" width="180" height="20" border="0" alt=""></div>
+				<div style="text-align: center; padding-right: 20px; padding-top: 30px;"><img src="images/head_ped.webp" width="180" height="20" border="0" alt=""></div>
 				<div style="text-align: justify; padding-left: 20px; padding-right: 20px;">
 					<p>El "Instituto Juana de Arco" pertenece al movimiento universal de las Escuelas Waldorf, creado por el Dr. Rudolf Steiner en la segunda d&eacute;cada del siglo pasado en Alemania. En los siguientes videos compartimos como trabajamos con la pedagog&iacute;a waldorf en nuestra escuela.</p>
 <center>

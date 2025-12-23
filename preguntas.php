@@ -5,7 +5,7 @@
 		<div id="content" class="text_main">
 			<div id="subcontentleft">
 			
-				<div style="text-align: right; padding-right: 20px; padding-top: 30px;"><img src="images/head_pre.gif" width="180" height="20" border="0" alt=""></div>
+				<div style="text-align: right; padding-right: 20px; padding-top: 30px;"><img src="images/head_pre.webp" width="180" height="20" border="0" alt=""></div>
 				<div style="text-align: justify; padding-left: 20px; padding-right: 20px;">
 <p><b>&iquest;Cu&aacute;ndo comenz&oacute; a implementarse esta metodolog&iacute;a de educaci&oacute;n en Argentina?</b><br>La primera escuela de pedagog&iacute;a Waldorf en Argentina fue el Colegio Rudolf Steiner, fundado en 1940 en la localidad de Florida. Actualmente hay much&iacute;simos establecimientos en todo el pa&iacute;s que se rigen por este m&eacute;todo de ense&ntilde;anza.</p>
 <p><b>&iquest;Cuales son los principios y fundamentos de la pedagog&iacute;a Waldorf?</b> 
@@ -49,7 +49,7 @@ En esta primera etapa (primer septenio) se pone el &eacute;nfasis en el juego (m
 			
 					
 			<div id="subcontentright">
-				<div style="margin-top: 45px;"><img src="images/photo_preg.jpg" width="349" height="390" border="0" alt=""></div>			
+				<div style="margin-top: 45px;"><img src="images/photo_preg.webp" width="349" height="390" border="0" alt=""></div>			
 			</div>			
 			
 		</div>

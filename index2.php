@@ -19,7 +19,7 @@
 		
 		<div id="content" class="text_main">
 			<div id="contentleft">
-				<img src="images/photo_hom_left.jpg" width="360" height="244" border="0" alt="juana de arco,escuela waldorf">
+				<img src="images/photo_hom_left.webp" width="360" height="244" border="0" alt="juana de arco,escuela waldorf">
 				<div style="text-align: right; padding-top: 20px" class="header">Cabeza, coraz&oacute;n y manos</div>
 				<div style="text-align: justify; padding-left: 10px;">El Instituto Juana de Arco es una escuela de nivel inicial, primario y secundario que sostiene el impulso de la pedagog&iacute;a waldorf en la Ciudad de Buenos Aires. Trabaja en el logro de un arte pedag&oacute;gico que acompa&ntilde;e las etapas evolutivas del desarrollo del ni&ntilde;o de acuerdo con los principios de la Antroposof&iacute;a. Aspira a la plena realizaci&oacute;n del ser humano en libertad, seg&uacute;n el impulso del alma consciente llevado por Juana de Arco. 
 				</div>
@@ -66,7 +66,7 @@
 			
 			<div id="contentright">
 			<div style="text-align: center; padding-top: 20px" class="header">Secundaria</div>
-				<div style="margin-top: 5px;"><img src="images/secundaria2.jpg" width="344" height="238" border="0" alt="secundaria en juana de arco">
+				<div style="margin-top: 5px;"><img src="images/secundaria2.webp" width="344" height="238" border="0" alt="secundaria en juana de arco">
 
 				<div style="text-align: justify; padding-right: 10px;"><br>Una vez m&aacute;s somos pioneros en la Ciudad Aut&oacute;noma de Buenos Aires en cuanto a hacer camino para que la pedagog&iacute;a Waldorf sea otra opci&oacute;n a elegir.
 <br>La orientaci&oacute;n es Bachiller en Sociales y Humanidades e inicialmente los cursos se dictan en turno tarde.

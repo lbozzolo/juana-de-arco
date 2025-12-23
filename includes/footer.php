@@ -1,5 +1,5 @@
 			<div id="footer" class="text_footer">
-				<img src="images/footer.jpg" width="1020" height="1" border="0" alt="">
+				<img src="images/footer.webp" width="1020" height="1" border="0" alt="">
 				<a href="index.php" class="text">Inicio</a> | <a href="escuela.php" class="text">La Escuela</a> | <a href="pedagogia.php" class="text">Pedagog&iacute;a Waldorf</a> | <a href="preguntas.php" class="text">Preguntas Frecuentes</a> | <a href="comunidad.php" class="text">Comunidad</a> | <a href="calendario.php" class="text">Calendario</a> | <a href="contact.php" class="text">Cont&aacute;ctenos</a> | <a href="Ley268120201001153427.pdf" class="text">Ley 2681</a> | <a href="Ley2681_Reglamentacion20201001153511.pdf" class="text">Reglamentaci&oacute;n 2681</a>
 				<br class="text_footer"/>Escuela Waldorf Juana de Arco
 				<br class="text_footer" />

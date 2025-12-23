@@ -58,7 +58,7 @@
 
 
 
-<img src="images/JuanaCrece.gif" width="204" height="120" border="0" alt="">
+<img src="images/JuanaCrece.webp" width="204" height="120" border="0" alt="">
 <br><a href="https://www.mercadopago.com/mla/checkout/pay?pref_id=164916584-150bf561-b257-4fc5-b726-4d2659f1ef1f" name="MP-payButton" class="red-ar-l-rn-arall">Donar $50</a>
 <script type="text/javascript">
 (function(){function $MPBR_load(){window.$MPBR_loaded !== true && (function(){var s = document.createElement("script");s.type = "text/javascript";s.async = true;s.src = ("https:"==document.location.protocol?"https://www.mercadopago.com/org-img/jsapi/mptools/buttons/":"http://mp-tools.mlstatic.com/buttons/")+"render.js";var x = document.getElementsByTagName('script')[0];x.parentNode.insertBefore(s, x);window.$MPBR_loaded = true;})();}window.$MPBR_loaded !== true ? (window.attachEvent ?window.attachEvent('onload', $MPBR_load) : window.addEventListener('load', $MPBR_load, false)) : null;})();

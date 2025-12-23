@@ -5,7 +5,7 @@
 		<div id="content" class="text_main">
 			<div id="subcontentleft">
 			
-				<div style="text-align: right; padding-right: 20px; padding-top: 30px;"><img src="images/head_com.gif" width="180" height="20" border="0" alt=""></div>
+				<div style="text-align: right; padding-right: 20px; padding-top: 30px;"><img src="images/head_com.webp" width="180" height="20" border="0" alt=""></div>
 				<div style="text-align: justify; padding-left: 20px; padding-right: 20px;">
 					<p>La comunidad educativa est&aacute; conformada por los ni&ntilde;os y las ni&ntilde;as, los  maestros y maestras y las familias. Estas últimas junto con los maestros y las maestras sostienen el funcionamiento de la instituci&oacute;n al servicio de la educaci&oacute;n de los ni&ntilde;os y las ni&ntilde;as. El equipo docente aporta su tarea pedag&oacute;gica y las familias aportan los bienes materiales necesarios para desarrollarla. En este sentido, las familias son consideradas co-autoras de la tarea educativa a trav&eacute;s de su compromiso y su presencia en la escuela.
 <p>La participaci&oacute;n de las familias es inherente a la estructura de las Escuelas Waldorf y se canaliza a trav&eacute;s del trabajo en las diferentes comisiones que tiene la Escuela. Las actividades de las comisiones ayudan a sostener econ&oacute;micamente a las escuelas Waldorf y generan un trabajo social muy importante, ya sea desde el involucrarse m&aacute;s profundamente con el camino formativo del ni&ntilde;o  y la ni&ntilde;a en la escuela, la potenciaci&oacute;n de los propios valores personales, y la pr&aacute;ctica de vivir de manera presente y comprometida en un medio social junto a otras personas. El trabajo conjunto, se realiza a trav&eacute;s de debates, consensos, reuniones y encuentros para lograr acuerdos de gesti&oacute;n y  administraci&oacute;n de la escuela a trav&eacute;s de las distintas comisiones.</p>
@@ -36,7 +36,7 @@
 			
 					
 			<div id="subcontentright">
-				<div style="margin-top: 45px;"><img src="images/photo_com.jpg" width="350" height="400" border="0" alt=""></div>			
+				<div style="margin-top: 45px;"><img src="images/photo_com.webp" width="350" height="400" border="0" alt=""></div>			
 			</div>			
 			
 		</div>

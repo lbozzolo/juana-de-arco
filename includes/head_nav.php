@@ -13,14 +13,14 @@
 <body>
 	<div id="container">
 
-		<a href="index.php"><img src="images/bannerWebJuana.png" width="1020" height="191" border="0" alt="Instituto Juana de Arco"></a>
+		<a href="index.php"><img src="images/bannerWebJuana.webp" width="1020" height="191" border="0" alt="Instituto Juana de Arco"></a>
 	
 		<div id="nav">
-			<a href="escuela.php" onmouseover="esc.src='images/nav_esc_over.jpg'" onmouseout="esc.src='images/nav_esc.jpg'"><img name="esc" src="images/nav_esc.jpg" width="119" height="38" border="0" alt="La Escuela" class="button_nav"></a>
-			<a href="pedagogia.php" onmouseover="ped.src='images/nav_ped_over.jpg'" onmouseout="ped.src='images/nav_ped.jpg'"><img name="ped" src="images/nav_ped.jpg" width="179" height="38" border="0" alt="Pedagogia Waldorf" class="button_nav"></a>
-			<a href="preguntas.php" onmouseover="pre.src='images/nav_pre_over.jpg'" onmouseout="pre.src='images/nav_pre.jpg'"><img name="pre" src="images/nav_pre.jpg" width="212" height="38" border="0" alt="Preguntas Frequentes" class="button_nav"></a>
-			<a href="comunidad.php" onmouseover="com.src='images/nav_com_over.jpg'" onmouseout="com.src='images/nav_com.jpg'"><img name="com" src="images/nav_com.jpg" width="117" height="38" border="0" alt="Comunidad" class="button_nav"></a>
-			<!-- <a href="calendario.php" onmouseover="cal.src='images/nav_cal_over.jpg'" onmouseout="cal.src='images/nav_cal.jpg'"><img name="cal" src="images/nav_cal.jpg" width="120" height="38" border="0" alt="Calendario" class="button_nav"></a> -->
-			<a href="galeria.php" onmouseover="don.src='images/nav_gal_over.jpg'" onmouseout="don.src='images/nav_gal.jpg'"><img name="don" src="images/nav_gal.jpg" width="120" height="38" border="0" alt="Galeria" class="button_nav"></a>
-			<a href="contact.php" onmouseover="con.src='images/nav_con_over.jpg'" onmouseout="con.src='images/nav_con.jpg'"><img name="con" src="images/nav_con.jpg" width="120" height="38" border="0" alt="Contact" class="last_button_nav"></a>
+			<a href="escuela.php" onmouseover="esc.src='images/nav_esc_over.webp'" onmouseout="esc.src='images/nav_esc.webp'"><img name="esc" src="images/nav_esc.webp" width="119" height="38" border="0" alt="La Escuela" class="button_nav"></a>
+			<a href="pedagogia.php" onmouseover="ped.src='images/nav_ped_over.webp'" onmouseout="ped.src='images/nav_ped.webp'"><img name="ped" src="images/nav_ped.webp" width="179" height="38" border="0" alt="Pedagogia Waldorf" class="button_nav"></a>
+			<a href="preguntas.php" onmouseover="pre.src='images/nav_pre_over.webp'" onmouseout="pre.src='images/nav_pre.webp'"><img name="pre" src="images/nav_pre.webp" width="212" height="38" border="0" alt="Preguntas Frequentes" class="button_nav"></a>
+			<a href="comunidad.php" onmouseover="com.src='images/nav_com_over.webp'" onmouseout="com.src='images/nav_com.webp'"><img name="com" src="images/nav_com.webp" width="117" height="38" border="0" alt="Comunidad" class="button_nav"></a>
+			<!-- <a href="calendario.php" onmouseover="cal.src='images/nav_cal_over.webp'" onmouseout="cal.src='images/nav_cal.webp'"><img name="cal" src="images/nav_cal.webp" width="120" height="38" border="0" alt="Calendario" class="button_nav"></a> -->
+			<a href="galeria.php" onmouseover="don.src='images/nav_gal_over.webp'" onmouseout="don.src='images/nav_gal.webp'"><img name="don" src="images/nav_gal.webp" width="120" height="38" border="0" alt="Galeria" class="button_nav"></a>
+			<a href="contact.php" onmouseover="con.src='images/nav_con_over.webp'" onmouseout="con.src='images/nav_con.webp'"><img name="con" src="images/nav_con.webp" width="120" height="38" border="0" alt="Contact" class="last_button_nav"></a>
 		</div>
